@@ -456,7 +456,7 @@
           "desktop": "168px"
         },
         "logo": {
-          "src": "/assets/images/brand/logo.svg",
+          "src": "/assets/images/brand/logo.png",
           "alt": "Medivora primary logo",
           "height": {
             "mobile": "24px",
@@ -471,7 +471,7 @@
           "desktop": "172px"
         },
         "logo": {
-          "src": "/assets/images/brand/logo-alt.svg",
+          "src": "/assets/images/brand/logo-alt.png",
           "alt": "Medivora secondary logo",
           "height": {
             "mobile": "20px",
